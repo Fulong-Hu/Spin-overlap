@@ -1,0 +1,10 @@
+# Sx  Sy  Sz
+# cubic tetragonal MD0.42ps MD2.69ps
+cubic
+0.008 0.238 -0.245 #CBM
+tetragonal
+-0.021 0.367 -0.452  #VBM
+MD0.42ps
+-0.033 -0.035  0.135  #VBM
+MD2.69ps
+0.154 -0.028 -0.008 #CBM
