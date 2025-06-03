@@ -20,3 +20,5 @@ Follow the prompts to input required numerical values (e.g., 10).
 
 Output:
 The script will generate band projection data (e.g., Total Projection.txt).
+
+##Please note that if you use the uploaded example for verification, please unzip the PROCAR.rar file first, and make sure your python has installed libraries such as linecache, numpy, sys, pandas and matplotlib. If not, there will be an error. Please follow the corresponding prompts to install the corresponding libraries.##
