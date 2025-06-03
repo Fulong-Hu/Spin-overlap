@@ -15,8 +15,8 @@ Run the Python Script:
 Execute the script with:
 
 bash
-python your_script_name.py
+python Extract band projection with PBE+SOC.py
 Follow the prompts to input required numerical values (e.g., 10).
 
 Output:
-The script will generate band projection data (e.g., band_projection.dat).
+The script will generate band projection data (e.g., Total Projection.txt).
